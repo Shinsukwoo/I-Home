@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       Hello React
-
+      bye react
     </div>
   );
 }
